@@ -44,6 +44,8 @@ body{
   cursor: pointer;
   border: 2px solid purple;
   margin: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
 
 }
 
@@ -61,5 +63,6 @@ body{
     cursor: pointer;
     border: 2px solid purple;
     margin: 20px;
+    transition: 0.5s;
 
 }
